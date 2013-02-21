@@ -1,5 +1,6 @@
 TUGAS-PEMROGRAMAN-WEB
 =====================
+<!DOCTYPE>
 <html>
   <head>
     <title><b>MY PROFILE</b></title>
